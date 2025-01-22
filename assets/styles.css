@@ -1,0 +1,39 @@
+/* Example CSS */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.navbar {
+    background-color: #007BFF;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.navbar-item {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.navbar-item:hover {
+    text-decoration: underline;
+}
+
+.landing-section {
+    background-color: #f0f8ff;
+    padding: 60px 20px;
+    text-align: center;
+}
+
+.footer {
+    
+    width: 100%;
+    bottom: 0;
+    text-align: center;
+    background-color: #007BFF;
+    padding: 20px;
+    color: white;
+}
