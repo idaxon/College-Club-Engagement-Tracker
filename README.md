@@ -31,6 +31,21 @@ College Club Engagement Tracker is an interactive platform that matches students
 
 ---
 
+## 🚀How to Use
+-- To use this application for your college:
+
+-- Prepare Your Data
+- Upload your college-specific data files:
+
+- students.csv: Contains information about your students and their interests.
+- clubs.csv: Contains a list of your university's clubs and their associated interests.
+-- Run the Application
+-- Follow the setup instructions to launch the platform and start exploring!
+
+---
+
+
+
 ## Usage
 - Start by selecting students from the dropdown to explore clubs tailored to their interests.
 - Visualize data in:
